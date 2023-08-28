@@ -1,0 +1,25 @@
+{
+  "name": "material-ui-forked",
+  "main": "index.tsx",
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@mui/material": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "typescript": "latest"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "description": "https://mui.com/material-ui/getting-started/usage/",
+  "version": "0.0.3",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
